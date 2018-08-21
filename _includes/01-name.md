@@ -1,5 +1,5 @@
 # Shailendra Dharmistan
-## Practising Headers here
+## Practicing On Headers Here
 ### Another Header
 #### And Another
 ##### One More
